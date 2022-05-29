@@ -14,7 +14,7 @@ You can Clone My App using Link: https://anvil.works/build#clone:Q4MVKUCLVQXKOMR
 #How to run ?# 
 1. Download main.py file inside the Final Face Recognition Folder
 
-2. Upload that file on Jupyter NoteBook and Run all 
+2. Upload that file on Jupyter NoteBook and Run all ( NOTE :  It is important to firstly run the Jupyter Notebook To set Up connection with Anvil Server)
  
 3. Click on the Link to My Web App :  https://criminal-face-recognition.anvil.app  
 
