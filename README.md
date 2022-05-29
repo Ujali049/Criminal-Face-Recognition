@@ -10,3 +10,18 @@ username : admin
 password : admin 
 
 You can Clone My App using Link: https://anvil.works/build#clone:Q4MVKUCLVQXKOMRJ=K3YYQLSOUVBSZU6Q4WKVFKDK
+
+#How to run ?# 
+1. Download main.py file inside the Final Face Recognition Folder
+
+2. Upload that file on Jupyter NoteBook and Run all 
+ 
+3. Click on the Link to My Web App :  https://criminal-face-recognition.anvil.app  
+
+4. Login by adding username : admin and password : admin 
+
+5. Done
+
+6. Also You can Clone My App using : https://anvil.works/build#clone:Q4MVKUCLVQXKOMRJ=K3YYQLSOUVBSZU6Q4WKVFKDK
+
+7. Then click on "Run" Appearing at the top of the Window. 
