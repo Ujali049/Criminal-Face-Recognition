@@ -14,7 +14,11 @@ You can Clone My App using Link: https://anvil.works/build#clone:Q4MVKUCLVQXKOMR
 #How to run ?# 
 1. Download main.py file inside the Final Face Recognition Folder
 
-2. Upload that file on Jupyter NoteBook and Run all ( NOTE :  It is important to firstly run the Jupyter Notebook To set Up connection with Anvil Server)
+2. Upload that file on Jupyter NoteBook and Run all
+
+3. Firstly install Anvil Uplink Library by command : pip install anvil-uplink , Also Install face-recognition Library in Jupyter Notebook following link : https://face-recognition.readthedocs.io/en/latest/installation.html and Install OpenCv Library.
+
+4. Run the Jupyter Notebook To set Up connection with Anvil Server
  
 3. Click on the Link to My Web App :  https://criminal-face-recognition.anvil.app  
 
